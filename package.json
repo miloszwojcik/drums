@@ -1,0 +1,26 @@
+{
+  "name": "guiseppe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miloszwojcik/guiseppe-web-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miloszwojcik/guiseppe-web-app/issues"
+  },
+  "homepage": "https://github.com/miloszwojcik/guiseppe-web-app#readme",
+  "engines": {
+    "node": "8.10.0"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
